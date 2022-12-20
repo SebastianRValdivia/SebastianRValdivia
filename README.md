@@ -6,4 +6,4 @@ Years later I found a new way of building, programming. The exponential growth o
 
 When programming, I oriented myself towards the use of free and open software because I was fascinated by being able to understand how something I was using worked. As it was in my nature, it didn't take long to generate a working environment on Linux and other tools that I configured manually. Over time I felt a connection to the community and decided to contribute to it.
 
-Finally, dear reader, you may have recognized my favorite hobby: writing. Something I also love building is stories. I love books, reading and narrating them, exploring and creating worlds with different characters, all this meanwhile I discovering the complex universe of linguistics.
+Finally, dear reader, you may have recognized my favorite hobby: writing. Something I also love building is stories. I love books, reading and narrating them, exploring and creating worlds with different characters, all this while I'm discovering the complex universe of linguistics.
