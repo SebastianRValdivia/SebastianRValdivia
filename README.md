@@ -1,9 +1,29 @@
 ## Hi, I’m @SebastianRValdivia
 
-I am an Argentine programmer. Since my youth I enjoy any activity that aims to build something. This rare pleasure in making began while I was assisting my dad in making furniture for our house, there I understood that working with materials and tools can create something new. Since then, I developed a taste for assembling, I loved playing with legos or magnetic blocks, or with video games like Minecraft. Between simple games and toys I discovered my vocation to build.
+I'm an Argentine programmer who has always had a passion for creating things. It all started when I helped my dad build furniture for our home as a child, where I discovered the joy of working with tools and materials to create something new. From there, I developed a fascination for assembling, whether it was playing with Legos, magnetic blocks, or diving into video games like Minecraft. It was through these simple games and toys that I realized my calling: to build.
 
-Years later I found a new way of building, programming. The exponential growth of software and computing in general caught my attention. I began to have a lot of ideas in my head that I was desperate to carry out, although I knew very well that first I have to learn to code. As soon as I had the opportunity to choose, I enrolled and graduated from a university to become a software engineer. Even so, I always called myself self-taught (although I attended an institution) because my objective was to learn a subject that I wanted to know in any way; not to obtain a degree.
+Years later, I stumbled upon a new way of building - programming. The rapid growth of software and technology intrigued me, and I was bursting with ideas that I wanted to bring to life. However, I knew that I needed to learn how to code first. So, I made the decision to enroll in university and graduate as a software engineer. But I've always considered myself self-taught at heart because my primary goal was to learn the subject, not just earn a degree.
 
-When programming, I oriented myself towards the use of free and open software because I was fascinated by being able to understand how something I was using worked. As it was in my nature, it didn't take long to generate a working environment on Linux and other tools that I configured manually. Over time I felt a connection to the community and decided to contribute to it.
+In my programming journey, I gravitated toward free and open-source software, driven by the desire to understand how the tools I used actually worked. Naturally, I created my own Linux-based working environment and configured various tools manually. Over time, I became deeply connected to the open-source community and decided to contribute to it.
 
-Finally, dear reader, you may have recognized my favorite hobby: writing. Something I also love building is stories. I love books, reading and narrating them, exploring and creating worlds with different characters, all this while I'm discovering the complex universe of linguistics.
+And last but not least, you may have already guessed my favorite hobby: writing. I have a passion for crafting stories, whether in books or through narration. I enjoy exploring and creating unique worlds with diverse characters, all while delving into the intricate realm of linguistics.
+
+My tool belt:
+|                   | Tools               |
+|-------------------|---------------------|
+| Web development               | 
+ ![python](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/0bf12d05-cb3e-420c-b5a5-cbfc2c5bbf51)
+ ![php-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/fafc6168-84b3-4ffe-97e1-10ba753831ab)
+|
+| Database dbms |
+ ![mariadb-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/40a4c27a-7de4-4a91-b5b6-4bf76d134970)
+ ![postgres-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/3cfb467a-d364-42d6-aca4-6d5e2dde9603)
+|
+| Desktop development |
+ ![kivy-logo](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/7fd49f30-128b-4666-aa17-d8a47983b24d)
+ ![electron-logo](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a4adece1-c619-401b-a768-c68fdaefb240)
+|
+| Mobile development |   
+|
+| Game development |    
+|
