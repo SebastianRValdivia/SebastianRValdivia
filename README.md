@@ -11,19 +11,8 @@ And last but not least, you may have already guessed my favorite hobby: writing.
 My tool belt:
 |                   | Tools               |
 |-------------------|---------------------|
-| Web development               | 
- ![python](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/0bf12d05-cb3e-420c-b5a5-cbfc2c5bbf51)
- ![php-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/fafc6168-84b3-4ffe-97e1-10ba753831ab)
-|
-| Database dbms |
- ![mariadb-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/40a4c27a-7de4-4a91-b5b6-4bf76d134970)
- ![postgres-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/3cfb467a-d364-42d6-aca4-6d5e2dde9603)
-|
-| Desktop development |
- ![kivy-logo](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/7fd49f30-128b-4666-aa17-d8a47983b24d)
- ![electron-logo](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a4adece1-c619-401b-a768-c68fdaefb240)
-|
-| Mobile development |   
-|
-| Game development |    
-|
+| Web development | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/0bf12d05-cb3e-420c-b5a5-cbfc2c5bbf51" alt="Python" width="128" height="128"> ![php-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/fafc6168-84b3-4ffe-97e1-10ba753831ab) |
+| Database dbms | ![mariadb-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/40a4c27a-7de4-4a91-b5b6-4bf76d134970) ![postgres-icon](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/3cfb467a-d364-42d6-aca4-6d5e2dde9603)|
+| Desktop development | ![kivy-logo](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/7fd49f30-128b-4666-aa17-d8a47983b24d) ![electron-logo](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a4adece1-c619-401b-a768-c68fdaefb240) |
+| Mobile development |   |
+| Game development |    |
