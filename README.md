@@ -11,11 +11,10 @@ And last but not least, you may have already guessed my favorite hobby: writing.
 My tool belt:
 |                   | Tools               |
 |-------------------|---------------------|
-| Programming languages | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/0bf12d05-cb3e-420c-b5a5-cbfc2c5bbf51" alt="Python" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/fafc6168-84b3-4ffe-97e1-10ba753831ab" alt="php-icon" height="128">  |
-| Web development | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a17795c1-7b79-4f21-865a-eedc5a4f940a)" height="128">
+| Programming languages | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/0bf12d05-cb3e-420c-b5a5-cbfc2c5bbf51" alt="Python" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/fafc6168-84b3-4ffe-97e1-10ba753831ab" alt="php-icon" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/35a83e58-a3de-454b-baab-1f9b7876ddfc" height="128">
  |
+| Web development | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a17795c1-7b79-4f21-865a-eedc5a4f940a)" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/1f40b2bf-c317-4bbc-8b49-e32e9899a61b" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/ad0df0e9-4602-4973-9b05-8bce16dfa913" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/204a9781-bfc8-4e99-901b-5e88e960a7c5" height="128">|
 | Database dbms | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/40a4c27a-7de4-4a91-b5b6-4bf76d134970" alt="mariadb-icon" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/3cfb467a-d364-42d6-aca4-6d5e2dde9603" alt="postgres" height="128"> |
-| Desktop development | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/d8e58fbe-f1fc-44d5-9a70-86fda61b561e" alt="kivy-logo" height="128">
-> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a4adece1-c619-401b-a768-c68fdaefb240" alt="electron-logo" height="128"> |
+| Desktop development | <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/d8e58fbe-f1fc-44d5-9a70-86fda61b561e" alt="kivy-logo" height="128"> <img src="https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/a4adece1-c619-401b-a768-c68fdaefb240" alt="electron-logo" height="128"> |
 | Mobile development |   |
 | Game development |    |
