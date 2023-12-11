@@ -9,4 +9,5 @@ In my programming journey, I gravitated toward free and open-source software, dr
 And last but not least, you may have already guessed my favorite hobby: writing. I have a passion for crafting stories, whether in books or through narration. I enjoy exploring and creating unique worlds with diverse characters, all while delving into the intricate realm of linguistics.
 
 My tool belt:
-![final](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/b494884c-cc2e-48a4-9527-09854c86dbae)
+![final](https://github.com/SebastianRValdivia/SebastianRValdivia/assets/75336522/f476bdc0-547a-4253-8628-59a3395ef3e8)
+
